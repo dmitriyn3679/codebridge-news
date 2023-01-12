@@ -1,0 +1,22 @@
+.article-card {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+
+  &__date {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  &__media {
+    padding-top: 56.25%;
+  }
+
+  &__content {
+    gap: 16px;
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+  }
+}

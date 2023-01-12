@@ -1,0 +1,15 @@
+.articles {
+  padding-bottom: 60px;
+
+  &__result {
+    &::after {
+      content: "";
+      display: block;
+      height: 1px;
+      width: 100%;
+      background-color: #EAEAEA;
+      margin-top: 5px;
+      margin-bottom: 45px;
+    }
+  }
+}
