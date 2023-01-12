@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codebridge-news/static/css/main.1fedc612.css",
+    "main.js": "/codebridge-news/static/js/main.d5b7d6b6.js",
+    "index.html": "/codebridge-news/index.html",
+    "main.1fedc612.css.map": "/codebridge-news/static/css/main.1fedc612.css.map",
+    "main.d5b7d6b6.js.map": "/codebridge-news/static/js/main.d5b7d6b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fedc612.css",
+    "static/js/main.d5b7d6b6.js"
+  ]
+}
